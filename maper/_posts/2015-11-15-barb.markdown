@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "meta"
+date:   2015-11-15 17:05:34
+categories: jekyll update
+---
+really for this short of a distance i see no cause to sweat
+<img src="/images/z.gif" class="background">
+all is well in space to estimate
+but this is time
+<img src="/images/y1.gif" class="background">
+
+
