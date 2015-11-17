@@ -9,7 +9,7 @@ header {
 
 // Our variables
 $base-font-family: Courier;
-$base-font-size:   30px;
+$base-font-size:   24px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -24,7 +24,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    1200px;
+$content-width:    1000px;
 
 $on-palm:          600px;
 $on-laptop:        1200px;
