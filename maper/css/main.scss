@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 header {
-  background-image: http://i.imgur.com/lSdNxkT.png('{{ site.baseurl }}/img/bicycle.jpg');
+  background-image: url('{{ site.baseurl }}/img/less transparent.jpg');
 }
 
 // Our variables
